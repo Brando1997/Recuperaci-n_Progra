@@ -1,0 +1,5 @@
+C:\Users\alvar\OneDrive\Escritorio\FINAL\Final\Final\obj\Debug\Final.csproj.AssemblyReference.cache
+C:\Users\alvar\OneDrive\Escritorio\FINAL\Final\Final\obj\Debug\MainWindow.g.cs
+C:\Users\alvar\OneDrive\Escritorio\FINAL\Final\Final\obj\Debug\App.g.cs
+C:\Users\alvar\OneDrive\Escritorio\FINAL\Final\Final\obj\Debug\Final_MarkupCompile.cache
+C:\Users\alvar\OneDrive\Escritorio\FINAL\Final\Final\obj\Debug\Final_MarkupCompile.lref

@@ -1,0 +1,10 @@
+C:\Users\alvar\OneDrive\Escritorio\Serie ll\Serie ll\Serie ll\bin\Debug\Serie ll.exe.config
+C:\Users\alvar\OneDrive\Escritorio\Serie ll\Serie ll\Serie ll\bin\Debug\Serie ll.exe
+C:\Users\alvar\OneDrive\Escritorio\Serie ll\Serie ll\Serie ll\bin\Debug\Serie ll.pdb
+C:\Users\alvar\OneDrive\Escritorio\Serie ll\Serie ll\Serie ll\obj\Debug\Serie ll.csproj.AssemblyReference.cache
+C:\Users\alvar\OneDrive\Escritorio\Serie ll\Serie ll\Serie ll\obj\Debug\Serie_ll.Form1.resources
+C:\Users\alvar\OneDrive\Escritorio\Serie ll\Serie ll\Serie ll\obj\Debug\Serie_ll.Properties.Resources.resources
+C:\Users\alvar\OneDrive\Escritorio\Serie ll\Serie ll\Serie ll\obj\Debug\Serie ll.csproj.GenerateResource.cache
+C:\Users\alvar\OneDrive\Escritorio\Serie ll\Serie ll\Serie ll\obj\Debug\Serie ll.csproj.CoreCompileInputs.cache
+C:\Users\alvar\OneDrive\Escritorio\Serie ll\Serie ll\Serie ll\obj\Debug\Serie ll.exe
+C:\Users\alvar\OneDrive\Escritorio\Serie ll\Serie ll\Serie ll\obj\Debug\Serie ll.pdb
